@@ -1,0 +1,5 @@
+03/22/2022 02:38:44 PM: DEBUG: This ia a debug message
+03/22/2022 02:38:44 PM: INFO: This ia a info message
+03/22/2022 02:38:44 PM: WARNING: This ia a warning message
+03/22/2022 02:38:44 PM: ERROR: This ia a error message
+03/22/2022 02:38:44 PM: CRITICAL: This ia a critical message
